@@ -1,0 +1,42 @@
+[
+  {
+    "from": "D:\\EUtech Task\\1\\test_folder\\asigurare.zip",
+    "to": "D:\\EUtech Task\\1\\test_folder\\sorted_folders\\zip\\asigurare.zip",
+    "time": "2025-10-31T06:11:45.854345"
+  },
+  {
+    "from": "D:\\EUtech Task\\1\\test_folder\\EUTECH Acceptance letter Lisbon - INOLA.pdf",
+    "to": "D:\\EUtech Task\\1\\test_folder\\sorted_folders\\pdf\\EUTECH Acceptance letter Lisbon - INOLA.pdf",
+    "time": "2025-10-31T06:11:45.858042"
+  },
+  {
+    "from": "D:\\EUtech Task\\1\\test_folder\\Inola Baciu HE Learning agreement - Traineeship (KA131-KA171).docx",
+    "to": "D:\\EUtech Task\\1\\test_folder\\sorted_folders\\doc\\Inola Baciu HE Learning agreement - Traineeship (KA131-KA171).docx",
+    "time": "2025-10-31T06:11:45.858550"
+  },
+  {
+    "from": "D:\\EUtech Task\\1\\test_folder\\street1.jpg",
+    "to": "D:\\EUtech Task\\1\\test_folder\\sorted_folders\\jpg\\street1.jpg",
+    "time": "2025-10-31T06:11:45.858550"
+  },
+  {
+    "from": "D:\\EUtech Task\\1\\test_folder\\street2.jpg",
+    "to": "D:\\EUtech Task\\1\\test_folder\\sorted_folders\\jpg\\street2.jpg",
+    "time": "2025-10-31T06:11:45.858550"
+  },
+  {
+    "from": "D:\\EUtech Task\\1\\test_folder\\street3.jpg",
+    "to": "D:\\EUtech Task\\1\\test_folder\\sorted_folders\\jpg\\street3.jpg",
+    "time": "2025-10-31T06:11:45.858550"
+  },
+  {
+    "from": "D:\\EUtech Task\\1\\test_folder\\street4.jpg",
+    "to": "D:\\EUtech Task\\1\\test_folder\\sorted_folders\\jpg\\street4.jpg",
+    "time": "2025-10-31T06:11:45.858550"
+  },
+  {
+    "from": "D:\\EUtech Task\\1\\test_folder\\street5.jpg",
+    "to": "D:\\EUtech Task\\1\\test_folder\\sorted_folders\\jpg\\street5.jpg",
+    "time": "2025-10-31T06:11:45.858550"
+  }
+]
